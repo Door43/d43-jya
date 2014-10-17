@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jya:home|Door43 (jya)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jya|d43-jya repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jya/archive/master.zip|d43-jya.zip]]
+
+**Recent Changes**
+{{changes>ns = jya}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jya|Ethnologue data]]
+
